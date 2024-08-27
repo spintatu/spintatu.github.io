@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://spintatu.github.io/sitemap.html.gz
+Sitemap: https://spintatu.github.io/app/sitemap.html.gz
+Sitemap: https://spintatu.github.io/assets/sitemap.html.gz
+Sitemap: https://spintatu.github.io/css/sitemap.html.gz
+Sitemap: https://spintatu.github.io/includes/sitemap.html.gz
+Sitemap: https://spintatu.github.io/item/sitemap.html.gz
+Sitemap: https://spintatu.github.io/src/sitemap.html.gz
